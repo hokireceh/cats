@@ -6,8 +6,8 @@
 
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
-- [Sobat Ongkang Ongkang](https://t.me/ongkang_ongkang)
-- [Info Airdrop Real - Channel](https://t.me/info_airdrop_real)
+- [Airdrop Indonesi](https://t.me/airdrop_indonesia_update)
+- [Info Garapan Airdrop](https://t.me/garapanairdrop_indonesia)
 
 ## 🌟 Features
 
@@ -17,10 +17,10 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 
 
-|							 Play For Fun                 			  |
+|							 Play For Fun                 			 											|
 | --------------------------------------------------------------------- |
 | `npm install` `npm install axios` `npm install luxon` `npm install colors` |
-| `node index` `data.txt` |
+| `node index` `nano data.txt` |
 
 ## ⚠️ Note
 
