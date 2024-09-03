@@ -15,20 +15,40 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 ## 🚀 Run File
 
-
-
-|	 Play For Fun  |
-| ----------------- |
-| ```pkg install git``` |
-| ```pkg install nano``` |
-| ```pkg install nodejs``` |
-| ---- cd cats ---- |
-| ```npm install``` |
-| ```npm install axios``` |
-| ```npm install luxon``` |
-| ```npm install colors``` |
-| ```nano data.txt``` |
-| ```node index``` |
+ ```
+ pkg install git
+ ``` 
+ ```
+ pkg install nano
+ ``` 
+ ```
+ pkg install nodejs
+ ``` 
+ ```
+ git clone htttps://github.com/hokireceh/cats.git
+ ```
+ 
+ ``` 
+ cd cats 
+ ```
+ ```
+ npm install
+ ``` 
+ ```
+ npm install axios
+ ``` 
+ ```
+ npm install luxon
+ ``` 
+ ```
+ npm install colors
+ ``` 
+ ```
+ nano data.txt
+ ``` 
+ ```
+ node index
+ ``` 
 
 
 ## ⚠️ Note
