@@ -6,7 +6,7 @@
 
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
-- [Airdrop Indonesi](https://t.me/airdrop_indonesia_update)
+- [Airdrop Indonesia](https://t.me/airdrop_indonesia_update)
 - [Info Garapan Airdrop](https://t.me/garapanairdrop_indonesia)
 
 ## 🌟 Features
