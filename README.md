@@ -1,6 +1,6 @@
 # CATS - BOT TERMUX
 
-🔗 **Referral Link**: [CATS](https://http://t.me/catsgang_bot/join?startapp=PcUy4rOVfl7KLPBa8zDJf)
+🔗 **JOIN**: [CATS](https://http://t.me/catsgang_bot/join?startapp=PcUy4rOVfl7KLPBa8zDJf)
 
 ## 📢 Telegram Group
 
