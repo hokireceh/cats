@@ -6,8 +6,8 @@
 
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
-- [Airdrop Indonesia](https://t.me/airdrop_indonesia_update)
-- [Info Garapan Airdrop](https://t.me/garapanairdrop_indonesia)
+- [Sobat Ongkang Ongkang](https://t.me/ongkang_ongkang)
+- [Info Airdrop Real - Channel](https://t.me/info_airdrop_real)
 
 ## 🌟 Features
 
@@ -17,10 +17,19 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 
 
-|							 Play For Fun                 			 											|
-| --------------------------------------------------------------------- |
-| `npm install` `npm install axios` `npm install luxon` `npm install colors` |
-| `node index` `nano data.txt` |
+|	 Play For Fun  |
+| ----------------- |
+| ```pkg install git``` |
+| ```pkg install nano``` |
+| ```pkg install nodejs``` |
+| ---- cd cats ---- |
+| ```npm install``` |
+| ```npm install axios``` |
+| ```npm install luxon``` |
+| ```npm install colors``` |
+| ```nano data.txt``` |
+| ```node index``` |
+
 
 ## ⚠️ Note
 
