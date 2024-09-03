@@ -1,6 +1,6 @@
 # CATS - BOT TERMUX
 
-🔗 **JOIN**: [CATS](https://http://t.me/catsgang_bot/join?startapp=PcUy4rOVfl7KLPBa8zDJf)
+🔗 **Referral Link**: [CATS](https://http://t.me/catsgang_bot/join?startapp=PcUy4rOVfl7KLPBa8zDJf)
 
 ## 📢 Telegram Group
 
@@ -17,9 +17,10 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 
 
-| Play For Fun                   | Play For Fun   |
-| -------------------------------------------------- | ------------------- |
-| `pkg install git` `pkg install nano` `pkg install nodejs` | `node index` `data.txt` |
+|							 Play For Fun                 			  |
+| --------------------------------------------------------------------- |
+| `npm install` `npm install axios` `npm install luxon` `npm install colors` |
+| `node index` `data.txt` |
 
 ## ⚠️ Note
 
