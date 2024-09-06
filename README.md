@@ -22,9 +22,6 @@ Join our Telegram group to stay updated and get instructions on how to use this 
  pkg install nano
  ``` 
  ```
- pkg install nodejs
- ``` 
- ```
  git clone htttps://github.com/hokireceh/cats.git
  ```
  
@@ -32,17 +29,9 @@ Join our Telegram group to stay updated and get instructions on how to use this 
  cd cats 
  ```
  ```
- npm install
+ pkg install nodejs && npm install axios && npm install colors && npm install luxon 
  ``` 
- ```
- npm install axios
- ``` 
- ```
- npm install luxon
- ``` 
- ```
- npm install colors
- ``` 
+
  ```
  nano data.txt
  ``` 
